@@ -1,0 +1,16 @@
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\kaylen.linnert\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Users\Tshepo.Levy\Documents\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
